@@ -12,7 +12,7 @@ const ToggleButton: FC = () => {
 	}, [darkMode])
 
 	return (
-		<div className='inline-flex items-center p-[2px] rounded-3xl bg-orange-300 dark:bg-zinc-600'>
+		<div className='inline-flex items-center p-[2px] rounded-3xl dark:bg-zinc-600'>
 			<button
 				className={`${
 					!darkMode ? 'bg-white text-black' : ''
