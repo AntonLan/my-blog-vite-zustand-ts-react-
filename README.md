@@ -2,7 +2,7 @@ Anthony blog for Job
 
 A curated list of the tech I use, built with Astro and Tailwind CSS
 
-Link
+Link https://my-blog-vite-zustand-ts-react.vercel.app
 
 Stack
 ________________________________________________________________________________________________________________________
