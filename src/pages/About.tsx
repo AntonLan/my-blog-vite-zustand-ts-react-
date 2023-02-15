@@ -3,6 +3,7 @@ import React, { FC } from 'react'
 const About: FC = () => {
 	return (
 		<div className='flex flex-col gap-4 justify-center content-center pt-[20%] px-2 max-w-3xl mx-auto'>
+			<h1 className='font-bold text-3xl'>About me</h1>
 			<p>
 				I have always liked apps, interacting with interfaces, keeping them
 				updated and how they get new functionality. I started to study UX/UI
