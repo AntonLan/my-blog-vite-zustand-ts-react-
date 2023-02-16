@@ -8,8 +8,8 @@ const MathHead: FC = () => {
 				<img className='bg-cover' src={banner} alt='banner' />
 			</div>
 			<div className='z-10 pt-[15%] sm:pt-[15%] md:pt-[15%] lg:pt-[15%] xl:pt-[10%] 2xl:pt-[8%] text-center px-8 drop-shadow-lg shadow-black'>
-				<h1 className='uppercase text-sm mb-4'>Welcome to</h1>
-				<h1 className='text-4xl font-medium'>
+				<h1 className='dark:text-black uppercase text-sm mb-4'>Welcome to</h1>
+				<h1 className='dark:text-black text-4xl font-medium'>
 					A curated list of the tech I{' '}
 					<span className='text-orange-500'>use</span>
 				</h1>

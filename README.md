@@ -2,7 +2,7 @@ Anthony blog for Job
 
 A curated list of the tech I use
 
-Link https://my-blog-vite-zustand-ts-react.vercel.app
+Link https://my-blog-react.vercel.app
 
 Stack
 ________________________________________________________________________________________________________________________
