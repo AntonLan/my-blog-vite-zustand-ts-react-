@@ -7,7 +7,6 @@ const Equipment: FC = () => {
 	const equipment = cardsEquipment.find(c => {
 		return params.id === c.id
 	})
-	console.log(equipment)
 
 	return (
 		<div className='flex flex-wrap flex-col mx-auto max-w-3xl mt-[20vh]'>

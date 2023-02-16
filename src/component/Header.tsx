@@ -1,6 +1,7 @@
 import React from 'react'
 import ToggleButton from './ToggleButton'
 import { Link, NavLink } from 'react-router-dom'
+import Logo from '@/assets/Logo.svg'
 
 const Header = () => {
 	return (
@@ -8,7 +9,7 @@ const Header = () => {
 			<div className='mx-auto max-w-3xl'>
 				<nav className='flex items-center justify-between gap-3 text-base'>
 					<Link to='/' className='group'>
-						<h2 className='font-bold tracking-tighter p-2 text-lg'>Anthony</h2>
+						<img className='w-16' src={Logo} alt='logo' />
 					</Link>
 					<div className='flex items-center gap-4'>
 						<div className='items-center gap-6 hidden md:flex'>
