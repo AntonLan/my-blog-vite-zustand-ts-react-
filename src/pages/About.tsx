@@ -37,7 +37,7 @@ const About: FC = () => {
 				<span className='font-bold'>Language:</span>
 				<ul>
 					<li>- Russian - Native </li>
-					<li>-- English - B1 - Intermediate</li>
+					<li>- English - B1 - Intermediate</li>
 				</ul>
 			</div>
 		</div>
