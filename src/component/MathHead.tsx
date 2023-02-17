@@ -3,7 +3,7 @@ import banner from '@/assets/banner.jpg'
 
 const MathHead: FC = () => {
 	return (
-		<div className='bg-white opacity-50'>
+		<div className='bg-white opacity-80 dark:opacity-70'>
 			<div className='absolute w-full h-[350px] overflow-hidden'>
 				<img className='bg-cover' src={banner} alt='banner' />
 			</div>
